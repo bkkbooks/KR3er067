@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er067_000-jc.yaml, hash: 'sha256:05951e795aec7f53248bd40a4a3ff0e11e6b41484bef292c6300a92327970a39'}
+  - {seq: 0, filename: KR3er067_000-jc.yaml, hash: 'sha256:e56120239f2e4cf8c8160c6a9d6c79b1c3259b9b8ea3df4e37b2e57a6d1b467a'}
   - {seq: 1, filename: KR3er067_001-jc.yaml, hash: 'sha256:07330b1266d0c5d69801f3d6f1ea29b7b1a7c3a85b935872aafca7d929832195'}
   - {seq: 2, filename: KR3er067_002-jc.yaml, hash: 'sha256:fb5b789beb71b27d789a484edc6a6c0372082cf7e87608bc70d64aedceda2d70'}
   - {seq: 3, filename: KR3er067_003-jc.yaml, hash: 'sha256:4535b6fea9ea56ae174547a7ebc2d5612ff05ecc907f57c9042a100317759452'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 7, filename: KR3er067_007-jc.yaml, hash: 'sha256:6ad3e83507025332e9b20131180fcbcaf7ac6ada9237e40caece90e57753116f'}
   - {seq: 8, filename: KR3er067_008-jc.yaml, hash: 'sha256:745dd742c0b180373e923c81287bfbccb14398746302743eaf74d207c368e90b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er067_000-jc.markers.yaml, hash: 'sha256:f10c3f0ba02b2c377122d17df23ed66636a130dd34d18788df0bc8a3fac71bce'}
+  - {seq: 0, role: markers, filename: assets/KR3er067_000-jc.markers.yaml, hash: 'sha256:ea96d51d9833d901dfa2a3d1fb05288194769f0f1fb22e183247cda24403a063'}
   - {seq: 1, role: markers, filename: assets/KR3er067_001-jc.markers.yaml, hash: 'sha256:a734c359a78b967f5ef4a105ed769109fc094b41ea7a5d4383e0c9960a0d0e72'}
   - {seq: 2, role: markers, filename: assets/KR3er067_002-jc.markers.yaml, hash: 'sha256:c33b87735caba7e17d80a0f5db3473532bb738ec765e329f7cb96fe3a39754e2'}
   - {seq: 3, role: markers, filename: assets/KR3er067_003-jc.markers.yaml, hash: 'sha256:36e6738dde7136c6356886c5c485a5ef97b296b922dd2774089c3a57c742c69a'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er067_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 552
   label: 王序
@@ -1447,4 +1447,4 @@ table_of_contents:
   label: 妊娠傷寒
   type: section
   level: 4
-hash: sha256:24c71361f61778a65a6748da1c26a303f17a24fcd0c087393fe52702033c2f87
+hash: sha256:e948de32c2a1a83fa27ca481ce31dcb9532a5b69506c0482c7019fc7ff7c8f5f
